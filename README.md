@@ -16,6 +16,10 @@ It produces a transparent **100-point prototype readiness score**, diagnostic in
 
 > **Important:** This is an academic/portfolio prototype. It is not a lender credit score, financing approval system, investment recommendation, or regulatory tool.
 
+## Project Preview
+
+![Executive Dashboard](screenshots/01-executive-dashboard.png)
+
 ---
 
 ## Why this project?
